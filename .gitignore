@@ -1,3 +1,3 @@
 #archivos de datos del proyecto 
 tareas.json
-*.json
+*.json #todo lo que tenga .json ignorar 
