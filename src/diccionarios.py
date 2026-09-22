@@ -5,4 +5,5 @@ estos
 persona = {"nombre":"juan", 
            "edad":30, 
            "ciudad": "madrid"}
+#este print muestra solo uno de los elementos dentro del diccionario 
 print (persona["edad"])
